@@ -75,6 +75,7 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         color: #fff;
         background-color: #2e2f42;
+        text-align: center;
 }
 .button-order {
     font-family: "Roboto", sans-serif;
@@ -146,8 +147,6 @@ font-family: "Roboto", sans-serif;
 }
 .descr {
     background: #fff;
-    width: 360px;
-    height: 420px;
 }
 .descr-item {
     font-family: "Roboto", sans-serif;
