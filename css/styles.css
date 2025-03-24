@@ -30,10 +30,9 @@
     color: #404bbf;
 }
 .body {
-    font-family: "Roboto", sans-serif
+   font-family: "Roboto", sans-serif
     color: #434455;
     background-color: #FFFFFF;
-
 }
 .navigation {
 font-family: "Roboto", sans-serif;
@@ -66,7 +65,6 @@ font-family: "Roboto", sans-serif;
         font-size: 56px;
         line-height: 107%;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #fff;
         background-color: #2e2f42;
 }
@@ -82,7 +80,7 @@ font-family: "Roboto", sans-serif;
 }
 .button-order:hover,
 .button-order:focus {
-    color:#404BBF;
+    background-color:#404BBF;
 }
 .about-us {
 font-family: "Roboto", sans-serif;
@@ -105,7 +103,6 @@ font-family: "Roboto", sans-serif;
         font-size: 36px;
         line-height: 111%;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #2e2f42;
         background: #F4F4FD;
         text-transform: capitalize
@@ -119,7 +116,6 @@ font-family: "Roboto", sans-serif;
         font-size: 20px;
         line-height: 120%;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #2e2f42;
 }
 .rank-our-team {
@@ -127,7 +123,6 @@ font-family: "Roboto", sans-serif;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #434455;
 }
 .our-portfolio {
@@ -136,7 +131,6 @@ font-family: "Roboto", sans-serif;
         font-size: 36px;
         line-height: 111%;
         letter-spacing: 0.02em;
-        text-align: center;
         color: #2e2f42;
         text-transform: capitalize;
 }
