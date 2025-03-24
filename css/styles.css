@@ -7,6 +7,15 @@
         text-transform: uppercase;
         color: #4d5ae5;
 }
+.top-logo {
+    font-family: "Raleway", sans-serif;
+        font-weight: 700;
+        font-size: 18px;
+        line-height: 117%;
+        letter-spacing: 0.03em;
+        text-transform: uppercase;
+        color: #2e2f42;
+}
 .header {
     font-family: "Raleway", sans-serif;
         font-weight: 700;
@@ -16,6 +25,16 @@
         text-transform: uppercase;
         color: #2e2f42;
 }
+.header:hover,
+.header:focus {
+    color: #404bbf;
+}
+.body {
+    font-family: "Roboto", sans-serif
+    color: #434455;
+    background-color: #FFFFFF;
+
+}
 .navigation {
 font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -24,12 +43,22 @@ font-family: "Roboto", sans-serif;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
+.address {
+    font-style: normal;
+}
 .address-detail {
     font-family: "Roboto", sans-serif;
         font-size: 16px;
         line-height: 150%;
         letter-spacing: 0.02em;
         color: #434455;
+}
+.address-detail-click {
+    color: #434455
+}
+.address-detail-click:hover,
+.adress-detail-click:focus {
+    color: #404bbf
 }
 .header-tittle {
     font-family: "Roboto", sans-serif;
@@ -51,6 +80,10 @@ font-family: "Roboto", sans-serif;
         background-color: #4d5ae5;
         cursor: pointer;
 }
+.button-order:hover,
+.button-order:focus {
+    color:#404BBF;
+}
 .about-us {
 font-family: "Roboto", sans-serif;
     font-weight: 500;
@@ -62,7 +95,7 @@ font-family: "Roboto", sans-serif;
 .about-us-comment {
     font-family: "Roboto", sans-serif;
         font-size: 16px;
-        line-height: 150%;
+        line-height: 1.5;
         letter-spacing: 0.02em;
         color: #434455;
 }
@@ -74,6 +107,11 @@ font-family: "Roboto", sans-serif;
         letter-spacing: 0.02em;
         text-align: center;
         color: #2e2f42;
+        background: #F4F4FD;
+        text-transform: capitalize
+}
+.team-link {
+    background-color: #FFFFFF
 }
 .name-our-team {
     font-family: "Roboto", sans-serif;
