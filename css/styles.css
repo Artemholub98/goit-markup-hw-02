@@ -38,6 +38,14 @@ body {
     color: #434455;
     background-color: #FFFFFF;
 }
+.navigation-01 {
+    font-family: "Roboto", sans-serif;
+        font-weight: 500;
+        font-size: 16px;
+        line-height: 1.5;
+        letter-spacing: 0.02em;
+        color: #2e2f42;
+}
 .navigation-01:hover,
 .navigation-01:focus {
 color: #404bbf;
